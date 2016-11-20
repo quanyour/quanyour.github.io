@@ -1,0 +1,34 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+.title{
+	width: 100%;
+	height: 300px;
+	padding-top: 220px;
+	background-color: #318853;
+	font-size: 60px;	
+	text-align: center;
+	color: #F8F8F8;
+}
+
+.title #title_two{
+	display: block;
+	padding-top: 10px;
+	font-size: 20px;
+}
+
+.mbody .mbody_a a{
+	text-decoration: none;
+	display: block;
+	margin-left: 50px;
+}
+
+.mbody .mbody_a a:hover{
+	color: #318853;
+}
+
+.mbody .mbody_a a:link{
+	color: #151515;
+}
